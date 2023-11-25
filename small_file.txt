@@ -1,0 +1,8 @@
+Hello, My name is Kaushik Kumar. I am currently pursuing my computer science graduate program and this is my computer security assignment number 2. Let’s learn some security techniques.
+This homework, consists of implementing algorithms	such as AES, RSA, and other hashing and digital signature verification for secure systems. On top of that, we further calculate the time it takes to perform all the algorithms. 
+We are going to use the pycryptodome package for the python implementation of the above. 
+Reference : https://www.pycryptodome.org/src/cipher/cipher
+Hello, My name is Kaushik Kumar. I am currently pursuing my computer science graduate program and this is my computer security assignment number 2. Let’s learn some security techniques.
+This homework, consists of implementing algorithms	such as AES, RSA, and other hashing and digital signature verification for secure systems. On top of that, we further calculate the time it takes to perform all the algorithms. 
+We are going to use the pycryptodome package for the python implementation of the above. 
+Reference : https://www.pycryptodome.org/src/cipher/cipher
